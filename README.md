@@ -1,4 +1,5 @@
-## <img src="https://github.com/PetroOstapuk/PetroOstapuk/blob/main/logo.png" width="30">  Welcome to CyberDev Space  <img src="https://github.com/PetroOstapuk/PetroOstapuk/blob/main/reverse_logo.png" width="30">
+<p align="center"><img src="https://github.com/PetroOstapuk/PetroOstapuk/blob/main/logo.png" width="30">  Welcome to CyberDev Space  <img src="https://github.com/PetroOstapuk/PetroOstapuk/blob/main/reverse_logo.png" width="30"></p>
+
 
 
 <!--**PetroOstapuk/PetroOstapuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
