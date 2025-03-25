@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on a volunteer position at UARO
 - 🌱 I’m currently learning Go, Kubernetes
 - 📫 How to reach me: cyberdev.space
-- ⚡ Fun fact: I love ham radio.
+- ⚡ I love ham radio.
 
 
 <h3 align="center">
