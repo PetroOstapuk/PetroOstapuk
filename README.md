@@ -1,4 +1,4 @@
-![Welcome to CyberDev Space](https://img.shields.io/badge/cyber_dev-_space-green?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00) 
+![Welcome to CyberDev Space](https://img.shields.io/badge/cyber_dev-_space-green?style=for-the-badge&logoColor=9FEF00) 
 <p align="center"><img src="https://github.com/PetroOstapuk/PetroOstapuk/blob/main/logo.png" width="30">  Welcome to CyberDev Space <img src="https://github.com/PetroOstapuk/PetroOstapuk/blob/main/reverse_logo.png" width="30"></p>
 
 
