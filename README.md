@@ -1,32 +1,23 @@
 ![Welcome to CyberDev Space](https://img.shields.io/badge/cyber_dev-_space-green?style=for-the-badge&logoColor=9FEF00) 
-<!-- <p align="center"><img src="https://github.com/PetroOstapuk/PetroOstapuk/blob/main/logo.png" width="30">  -->
-  <h1 align="center">
+<p align="center">
+  <img src="https://github.com/PetroOstapuk/PetroOstapuk/blob/main/logo.png" width="40" alt="Left Logo">
+  &nbsp;&nbsp;&nbsp;
   <a href="https://cyberdev.space">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=9FEF00&width=435&lines=Welcome+to+CyberDev+Space;Full-stack+Developer;Cybersecurity+Enthusiast;Ham+Radio+Operator" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=9FEF00&center=true&vCenter=true&width=435&lines=Welcome+to+CyberDev+Space;Full-stack+Developer;Cybersecurity+Enthusiast;Ham+Radio+Operator" alt="Typing SVG" />
   </a>
-</h1>
-  <!-- <img src="https://github.com/PetroOstapuk/PetroOstapuk/blob/main/reverse_logo.png" width="30"></p> -->
-
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/PetroOstapuk/PetroOstapuk/blob/main/reverse_logo.png" width="40" alt="Right Logo">
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:9FEF00,100:000000&height=2&section=header"/>
+</p>
 <h3 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi, I'm Petro!
 </h3>
 
 <p align="center">
-  <img src="https://github.com/PetroOstapuk/PetroOstapuk/blob/main/assets/neon_cyberdev.gif" width="400"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PetroOstapuk&theme=tokyonight&hide_border=true" height="180px" />
-  <img src="https://github-profile-trophy.vercel.app/?username=PetroOstapuk&theme=matrix&no-frame=true&row=1&column=7" height="120px"/>
 </p>
-
-
-<!--**PetroOstapuk/PetroOstapuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-
-<!-- <h2 align="center">🚀 About Me</h2>
-<p align="center">
-  <img src="https://media.giphy.com/media/XG1vM4NwKcSxK/giphy.gif" width="50">
-</p> -->
 
 <p align="center">
   🔭 Working at <b>UARO</b> as a volunteer<br>
@@ -35,18 +26,13 @@
   🌐 Visit me at: <a href="https://cyberdev.space">cyberdev.space</a>
 </p>
 
-<!-- <h2 align="center">📫 Connect with me</h2>
-<p align="center">
-  <a href="https://cyberdev.space"><img src="https://img.shields.io/badge/Website-cyberdev.space-9FEF00?style=for-the-badge&logo=firefox-browser&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/petroostapuk"><img src="https://img.shields.io/badge/LinkedIn-Petro%20Ostapuk-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://t.me/cyberdevspace"><img src="https://img.shields.io/badge/Telegram-@cyberdevspace-2CA5E0?style=for-the-badge&logo=telegram" /></a>
-</p> -->
-
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="c0repwn3r's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=PetroOstapuk&show_icons=true&count_private=true&theme=bear&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="179px"/></a>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="c0repwn3r's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PetroOstapuk&langs_count=8&layout=compact&theme=bear&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook&hide_progress=true" height="179px"/></a>
 
 <h2 align="center">🧠 Tech Stack</h2>
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:9FEF00,100:000000&height=2&section=header"/>
+</p>
 <table align="center">
 
 <!-- Backend -->
@@ -222,6 +208,9 @@
   </td>
 </tr>
 </table>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:9FEF00,100:000000&height=2&section=header"/>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=PetroOstapuk&color=brightgreen&style=for-the-badge" alt="profile views" />
